@@ -1,3 +1,3 @@
-# projetocliente
+Tabela cliente
 Projeto baseados na didática da Udemy
-Tabela Cliente
+SQL Server
